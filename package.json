@@ -1,0 +1,14 @@
+{
+    "name": "dev.kokoa.middleclick-inspector-opener",
+    "version": "0.1.0",
+    "displayName": "kokoa's Middle Click Inspector Opener",
+    "description": "Opens a new inspector window with middle mouse click.",
+    "unity": "2022.3",
+    "author": {
+        "name": "kokoa",
+        "url": "https://github.com/rassi0429"
+    },
+    "license": "MIT",
+    "licenseUrl": "",
+    "vpmDependencies": {}
+}
